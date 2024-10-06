@@ -1,5 +1,3 @@
-# PvzPopCapInstaller
-
 # Pvz (Plants vs. Zombies) Pop Cap Installer!
 ### Download Plants vs. Zombies into your pc.
 
