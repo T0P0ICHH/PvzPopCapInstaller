@@ -1,7 +1,15 @@
 # PvzPopCapInstaller
 
-PvzPopCapInstaller is a installer that downloads Plants vs. Zombies into your computer.
-This software is official and was archived to archive.org into a .ISO file but i made it for you .zip so you can download it easier.
-Nothing was changed in installer i swear! Have a great time playing original PvZ from Pop Cap Installer!
+# Pvz (Plants vs. Zombies) Pop Cap Installer!
+### Download Plants vs. Zombies into your pc.
 
-my english is bad i tried my best
+# How to download?
+### 1. Download the PvzPopCapInstaller from releases.
+### 2. Extract archive
+![Image](https://i.imgur.com/q1dzcaQ.png)
+### 3. Run as administrator PopCDRun.exe
+### 4. Hit Install Now and download will begin!
+![Image 2](https://i.imgur.com/lSA6NRA.png)
+### 5. Hope you enjoy!
+
+Works only with Windows btw.
