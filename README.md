@@ -7,7 +7,7 @@
 ![Image](https://i.imgur.com/q1dzcaQ.png)
 ### 3. Run as administrator PopCDRun.exe
 ### 4. Hit Install Now and download will begin!
-![Image 2](https://i.imgur.com/lSA6NRA.png)
+![Image 2](https://i.imgur.com/WjjWJUj.png)
 ### 5. Hope you enjoy!
 
 Works only with Windows btw.
