@@ -10,4 +10,4 @@
 ![Image 2](https://i.imgur.com/WjjWJUj.png)
 ### 5. Hope you enjoy!
 
-Works only with Windows btw.
+Compatible with any version of Windows.
