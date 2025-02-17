@@ -6,7 +6,7 @@
 ### 2. Extract archive
 ![Image](https://i.imgur.com/q1dzcaQ.png)
 ### 3. Run as administrator Start Installer.bat
-### 4.1 Notepad will be open with mention to star our project, if you want to star it but if you don't close
+### 4.1 Notepad will be open with mention to star our project, if you want to star go for it, but if you don't close the notepad.
 ### 4.2 Hit Install Now and download will begin!
 ![Image 2](https://i.imgur.com/WjjWJUj.png)
 
