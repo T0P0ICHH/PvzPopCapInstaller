@@ -1,4 +1,4 @@
-T0P0ICHH/PvzPopCapInstaller
+topoichh/PvzPopCapInstaller
 Please star our project!
 
 
@@ -28,5 +28,27 @@ What's New?
 
 That's it for now. Thank you that you trust in our project! We try to do the best.
 
+=========================================================================================================================================================================================
+v1.3
+=========================================================================================================================================================================================
+What's New?
 
+--Added to release ONLY installer. More down there.
+-Removed Launcher (the required part), only Installer for Plants vs Zombies
+-Removed almost everything, there is really only Plants vs Zombies installer.
+-Less MB now! yey
+-Installer with Launcher will still be in our releases.
 
+That's it for now. Thank you that you trust in our project! We try to do the best.
+
+=========================================================================================================================================================================================
+v1.4
+=========================================================================================================================================================================================
+What's New?
+
+-Fixed minor bugs
+-Have been changed username and copyright things.
+
+That's it for now. Thank you that you trust in our project! We try to do the best.
+
+=========================================================================================================================================================================================
